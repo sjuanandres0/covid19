@@ -21,10 +21,38 @@ To begin with, I will state 3 main questions I will try to reply in this blog po
 2.	Do Wealthy countries have less deaths?
 3.	Do Wealthy countries have more vaccines? Did they have them earlier?
 
+### Results
+Wealthier countries reported a higher number of cases, deaths and vaccines. Furthermore, the wealthier the country, the earlier the vaccination processes started.
+
 ## Code
 
 ### Requirements
 1. Python3
 2. Libraries: Numpy, Pandas, Sklearn, Matplotlib, Seaborn, Missingno, Plotly (if you miss any, you can pip install them)
 
-## Thanks!
+### Files
+The files contained in this repo are basically:
+1. Blog post in PDF version
+2. Readme
+3. img folder containing few screenshots of the plots (output from the notebook, input for the blog)
+4. Important note, the input datasets are read directly from the GitHub repository from Our World in Data, meaning that I do not hold/save the used files. If you want to run it, you can simple run it from your laptop and that would automatically read the latest data available from OWID.
+
+## Acknowledgments
+Special thanks to [Our World in Data](https://github.com/owid/covid-19-data) for making available such a complete, clean, updated and reliable data as they are doing with one of the most important topics of the world during the last year. \
+Also many thanks for the Udacity Evaluation Team for providing very nice corrections/feedback to achieve results that exceed the requirements and help the projects outstand.
+
+### Helpful Links
+- https://www.datascience-pm.com/crisp-dm-2/
+- https://analyticsindiamag.com/crisp-dm-data-science-project/
+- https://www.proglobalbusinesssolutions.com/six-steps-in-crisp-dm-the-standard-data-mining-process/
+- https://towardsdatascience.com/jypyter-notebook-shortcuts-bf0101a98330
+- https://www.python.org/dev/peps/pep-0008/
+- https://towardsdatascience.com/jupyter-notebook-best-practices-f430a6ba8c69
+- https://medium.com/@josh_2774/how-do-you-become-a-developer-5ef1c1c68711
+- https://www.analyticsvidhya.com/blog/2020/05/art-storytelling-analytics-data-science/
+- https://medium.com/datadriveninvestor/5-reasons-why-programmers-should-blog-93687009272b
+- https://towardsdatascience.com/manage-your-data-science-project-structure-in-early-stage-95f91d4d0600
+- https://bulldogjob.com/news/449-how-to-write-a-good-readme-for-your-github-project
+
+
+### Thanks!
