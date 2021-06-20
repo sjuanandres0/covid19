@@ -4,6 +4,8 @@ This Project contains on writing a blog post as part of the Udacity Data Scienti
 Additionally, you can take a look at the Jupyter Notebook by following this link: https://nbviewer.jupyter.org/github/sjuanandres0/covid19/blob/master/COVID-19_WealthCasesDeathsVaccines.ipynb \
 (It contains plotly graphs which are not interactive when rendered in GitHub).
 
+You can also check out my [Kaggle Notebook](https://www.kaggle.com/juanandressimonetti/covid-19-countries-wealth-cases-deaths-and-vacc).
+
 ## Project Description
 
 ### Motivation
